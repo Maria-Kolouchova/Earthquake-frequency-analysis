@@ -1,6 +1,8 @@
 # Earthquake Frequency Analysis (2006–2025)
 
 This project examines whether the number of earthquakes with magnitude M ≥ 4.5 changed between two decades: 2006–2015 and 2016–2025. The analysis combines simple visualisations with three statistical tests.
+
+You can view the full HTML version of the analysis here:  https://maria-kolouchova.github.io/Earthquake-frequency-analysis/
 <hr>
 
 **Overview**
